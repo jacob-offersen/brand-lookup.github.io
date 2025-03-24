@@ -25,6 +25,18 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Alfa Romeo",
+        "details": {
+            "Country": "Italy"
+        }
+    },
+    {
+        "name": "Allianz",
+        "details": {
+            "Country": "Germany"
+        }
+    },
+    {
         "name": "Alpine",
         "details": {
             "Country": "France"
@@ -49,6 +61,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Arla",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Asus",
         "details": {
             "Country": "Taiwan"
@@ -65,6 +83,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "details": {
             "Country": "UK",
             "Owned by": "Unilever"
+        }
+    },
+    {
+        "name": "B&O",
+        "details": {
+            "Country": "Denmark"
         }
     },
     {
@@ -104,6 +128,18 @@ document.addEventListener('DOMContentLoaded', function () {
         "details": {
             "Country": "Denmark",
             "Owned By": "Salling Group"
+        }
+    },
+    {
+        "name": "Bolt",
+        "details": {
+            "Country": "Estland"
+        }
+    },
+    {
+        "name": "Booking.com",
+        "details": {
+            "Country": "Netherlands"
         }
     },
     {
@@ -150,6 +186,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Carlsberg",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Chevrolet",
         "details": {
             "Country": "USA"
@@ -166,6 +208,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "details": {
             "Country": "USA",
             "Owned by": "Coca-Cola Company"
+        }
+    },
+    {
+        "name": "Coloplast",
+        "details": {
+            "Country": "Denmark"
         }
     },
     {
@@ -189,6 +237,18 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "DFDS",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
+        "name": "DHL",
+        "details": {
+            "Country": "Germany"
+        }
+    },
+    {
         "name": "Dacia",
         "details": {
             "Country": "Romania"
@@ -198,6 +258,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Dell",
         "details": {
             "Country": "USA"
+        }
+    },
+    {
+        "name": "Dior",
+        "details": {
+            "Country": "France"
         }
     },
     {
@@ -228,9 +294,21 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Ecco",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Eclipse",
         "details": {
             "Country": "Japan"
+        }
+    },
+    {
+        "name": "Edeka",
+        "details": {
+            "Country": "Germany"
         }
     },
     {
@@ -263,6 +341,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Fiat",
         "details": {
             "Country": "Italy"
+        }
+    },
+    {
+        "name": "Fiskars",
+        "details": {
+            "Country": "Finland"
         }
     },
     {
@@ -305,6 +389,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Gjensidige",
+        "details": {
+            "Country": "Norway"
+        }
+    },
+    {
         "name": "Google",
         "details": {
             "Country": "USA"
@@ -317,6 +407,18 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Guinness",
+        "details": {
+            "Country": "Ireland"
+        }
+    },
+    {
+        "name": "H&M",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
         "name": "HP",
         "details": {
             "Country": "USA"
@@ -326,6 +428,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "HTC",
         "details": {
             "Country": "Taiwan"
+        }
+    },
+    {
+        "name": "Heineken",
+        "details": {
+            "Country": "Netherlands"
         }
     },
     {
@@ -345,6 +453,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Huawei",
         "details": {
             "Country": "China"
+        }
+    },
+    {
+        "name": "Husqvarna",
+        "details": {
+            "Country": "Sweden"
         }
     },
     {
@@ -379,9 +493,27 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Jameson",
+        "details": {
+            "Country": "Ireland"
+        }
+    },
+    {
         "name": "Jeep",
         "details": {
             "Country": "USA"
+        }
+    },
+    {
+        "name": "Jysk",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
+        "name": "KLM",
+        "details": {
+            "Country": "Netherlands"
         }
     },
     {
@@ -397,10 +529,28 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "KitKat",
+        "details": {
+            "Country": "UK"
+        }
+    },
+    {
+        "name": "Klarna",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
         "name": "Knorr",
         "details": {
             "Country": "UK",
             "Owned by": "Unilever"
+        }
+    },
+    {
+        "name": "Kone",
+        "details": {
+            "Country": "Finland"
         }
     },
     {
@@ -416,9 +566,21 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Lego",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Lenovo",
         "details": {
             "Country": "Hong Kong"
+        }
+    },
+    {
+        "name": "Lidl",
+        "details": {
+            "Country": "Germany"
         }
     },
     {
@@ -429,9 +591,39 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Logitech",
+        "details": {
+            "Country": "Switzerland"
+        }
+    },
+    {
+        "name": "Loreal",
+        "details": {
+            "Country": "France"
+        }
+    },
+    {
+        "name": "Lotus",
+        "details": {
+            "Country": "Belgium"
+        }
+    },
+    {
         "name": "Lucid",
         "details": {
             "Country": "USA"
+        }
+    },
+    {
+        "name": "Lufthansa",
+        "details": {
+            "Country": "Germany"
+        }
+    },
+    {
+        "name": "Maersk",
+        "details": {
+            "Country": "Denmark"
         }
     },
     {
@@ -439,6 +631,18 @@ document.addEventListener('DOMContentLoaded', function () {
         "details": {
             "Country": "UK",
             "Owned by": "Unilever"
+        }
+    },
+    {
+        "name": "Mango",
+        "details": {
+            "Country": "Spain"
+        }
+    },
+    {
+        "name": "Martini",
+        "details": {
+            "Country": "Italy"
         }
     },
     {
@@ -472,6 +676,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Michelin",
+        "details": {
+            "Country": "France"
+        }
+    },
+    {
         "name": "Microsoft",
         "details": {
             "Country": "USA"
@@ -494,6 +704,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "details": {
             "Country": "USA",
             "Owned By": "PepsiCo"
+        }
+    },
+    {
+        "name": "Nestle",
+        "details": {
+            "Country": "Switzerland"
         }
     },
     {
@@ -534,6 +750,24 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Nordea",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
+        "name": "Novo Nordisk",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
+        "name": "Nutella",
+        "details": {
+            "Country": "Italy"
+        }
+    },
+    {
         "name": "Nvidia",
         "details": {
             "Country": "USA"
@@ -552,6 +786,18 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Orkla",
+        "details": {
+            "Country": "Norway"
+        }
+    },
+    {
+        "name": "Oysho",
+        "details": {
+            "Country": "Spain"
+        }
+    },
+    {
         "name": "Packard Bell",
         "details": {
             "Country": "USA"
@@ -561,6 +807,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Panasonic",
         "details": {
             "Country": "Japan"
+        }
+    },
+    {
+        "name": "Pandora",
+        "details": {
+            "Country": "Denmark"
         }
     },
     {
@@ -614,6 +866,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Randstad",
+        "details": {
+            "Country": "Netherlands"
+        }
+    },
+    {
         "name": "Realtek",
         "details": {
             "Country": "Taiwan"
@@ -629,6 +887,18 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Renesas",
         "details": {
             "Country": "Japan"
+        }
+    },
+    {
+        "name": "Rolex",
+        "details": {
+            "Country": "Switzerland"
+        }
+    },
+    {
+        "name": "Ryanair",
+        "details": {
+            "Country": "Ireland"
         }
     },
     {
@@ -656,6 +926,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Schneider Electric",
+        "details": {
+            "Country": "France"
+        }
+    },
+    {
         "name": "Schweppes",
         "details": {
             "Country": "USA",
@@ -675,6 +951,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Shell",
+        "details": {
+            "Country": "UK"
+        }
+    },
+    {
         "name": "Siemens",
         "details": {
             "Country": "Germany"
@@ -684,6 +966,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Skoda",
         "details": {
             "Country": "Czech Republic"
+        }
+    },
+    {
+        "name": "Skype",
+        "details": {
+            "Country": "Estland"
         }
     },
     {
@@ -703,6 +991,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Sony",
         "details": {
             "Country": "Japan"
+        }
+    },
+    {
+        "name": "Spotify",
+        "details": {
+            "Country": "Sweden"
         }
     },
     {
@@ -731,6 +1025,24 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Telenor",
+        "details": {
+            "Country": "Norway"
+        }
+    },
+    {
+        "name": "Telia",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
+        "name": "Tesco",
+        "details": {
+            "Country": "UK"
+        }
+    },
+    {
         "name": "Tesla",
         "details": {
             "Country": "USA"
@@ -740,6 +1052,18 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Texas Instruments",
         "details": {
             "Country": "USA"
+        }
+    },
+    {
+        "name": "Thule",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
+        "name": "Tomtom",
+        "details": {
+            "Country": "Netherlands"
         }
     },
     {
@@ -774,6 +1098,18 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     },
     {
+        "name": "Velux",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
+        "name": "Vestas",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Vitamin Water",
         "details": {
             "Country": "USA",
@@ -802,6 +1138,12 @@ document.addEventListener('DOMContentLoaded', function () {
         "name": "Xiaomi",
         "details": {
             "Country": "China"
+        }
+    },
+    {
+        "name": "Zara",
+        "details": {
+            "Country": "Spain"
         }
     },
     {

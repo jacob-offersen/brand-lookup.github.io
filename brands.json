@@ -18,6 +18,18 @@
         }
     },
     {
+        "name": "Alfa Romeo",
+        "details": {
+            "Country": "Italy"
+        }
+    },
+    {
+        "name": "Allianz",
+        "details": {
+            "Country": "Germany"
+        }
+    },
+    {
         "name": "Alpine",
         "details": {
             "Country": "France"
@@ -42,6 +54,12 @@
         }
     },
     {
+        "name": "Arla",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Asus",
         "details": {
             "Country": "Taiwan"
@@ -58,6 +76,12 @@
         "details": {
             "Country": "UK",
             "Owned by": "Unilever"
+        }
+    },
+    {
+        "name": "B&O",
+        "details": {
+            "Country": "Denmark"
         }
     },
     {
@@ -97,6 +121,18 @@
         "details": {
             "Country": "Denmark",
             "Owned By": "Salling Group"
+        }
+    },
+    {
+        "name": "Bolt",
+        "details": {
+            "Country": "Estland"
+        }
+    },
+    {
+        "name": "Booking.com",
+        "details": {
+            "Country": "Netherlands"
         }
     },
     {
@@ -143,6 +179,12 @@
         }
     },
     {
+        "name": "Carlsberg",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Chevrolet",
         "details": {
             "Country": "USA"
@@ -159,6 +201,12 @@
         "details": {
             "Country": "USA",
             "Owned by": "Coca-Cola Company"
+        }
+    },
+    {
+        "name": "Coloplast",
+        "details": {
+            "Country": "Denmark"
         }
     },
     {
@@ -182,6 +230,18 @@
         }
     },
     {
+        "name": "DFDS",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
+        "name": "DHL",
+        "details": {
+            "Country": "Germany"
+        }
+    },
+    {
         "name": "Dacia",
         "details": {
             "Country": "Romania"
@@ -191,6 +251,12 @@
         "name": "Dell",
         "details": {
             "Country": "USA"
+        }
+    },
+    {
+        "name": "Dior",
+        "details": {
+            "Country": "France"
         }
     },
     {
@@ -221,9 +287,21 @@
         }
     },
     {
+        "name": "Ecco",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Eclipse",
         "details": {
             "Country": "Japan"
+        }
+    },
+    {
+        "name": "Edeka",
+        "details": {
+            "Country": "Germany"
         }
     },
     {
@@ -256,6 +334,12 @@
         "name": "Fiat",
         "details": {
             "Country": "Italy"
+        }
+    },
+    {
+        "name": "Fiskars",
+        "details": {
+            "Country": "Finland"
         }
     },
     {
@@ -298,6 +382,12 @@
         }
     },
     {
+        "name": "Gjensidige",
+        "details": {
+            "Country": "Norway"
+        }
+    },
+    {
         "name": "Google",
         "details": {
             "Country": "USA"
@@ -310,6 +400,18 @@
         }
     },
     {
+        "name": "Guinness",
+        "details": {
+            "Country": "Ireland"
+        }
+    },
+    {
+        "name": "H&M",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
         "name": "HP",
         "details": {
             "Country": "USA"
@@ -319,6 +421,12 @@
         "name": "HTC",
         "details": {
             "Country": "Taiwan"
+        }
+    },
+    {
+        "name": "Heineken",
+        "details": {
+            "Country": "Netherlands"
         }
     },
     {
@@ -338,6 +446,12 @@
         "name": "Huawei",
         "details": {
             "Country": "China"
+        }
+    },
+    {
+        "name": "Husqvarna",
+        "details": {
+            "Country": "Sweden"
         }
     },
     {
@@ -372,9 +486,27 @@
         }
     },
     {
+        "name": "Jameson",
+        "details": {
+            "Country": "Ireland"
+        }
+    },
+    {
         "name": "Jeep",
         "details": {
             "Country": "USA"
+        }
+    },
+    {
+        "name": "Jysk",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
+        "name": "KLM",
+        "details": {
+            "Country": "Netherlands"
         }
     },
     {
@@ -390,10 +522,28 @@
         }
     },
     {
+        "name": "KitKat",
+        "details": {
+            "Country": "UK"
+        }
+    },
+    {
+        "name": "Klarna",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
         "name": "Knorr",
         "details": {
             "Country": "UK",
             "Owned by": "Unilever"
+        }
+    },
+    {
+        "name": "Kone",
+        "details": {
+            "Country": "Finland"
         }
     },
     {
@@ -409,9 +559,21 @@
         }
     },
     {
+        "name": "Lego",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Lenovo",
         "details": {
             "Country": "Hong Kong"
+        }
+    },
+    {
+        "name": "Lidl",
+        "details": {
+            "Country": "Germany"
         }
     },
     {
@@ -422,9 +584,39 @@
         }
     },
     {
+        "name": "Logitech",
+        "details": {
+            "Country": "Switzerland"
+        }
+    },
+    {
+        "name": "Loreal",
+        "details": {
+            "Country": "France"
+        }
+    },
+    {
+        "name": "Lotus",
+        "details": {
+            "Country": "Belgium"
+        }
+    },
+    {
         "name": "Lucid",
         "details": {
             "Country": "USA"
+        }
+    },
+    {
+        "name": "Lufthansa",
+        "details": {
+            "Country": "Germany"
+        }
+    },
+    {
+        "name": "Maersk",
+        "details": {
+            "Country": "Denmark"
         }
     },
     {
@@ -432,6 +624,18 @@
         "details": {
             "Country": "UK",
             "Owned by": "Unilever"
+        }
+    },
+    {
+        "name": "Mango",
+        "details": {
+            "Country": "Spain"
+        }
+    },
+    {
+        "name": "Martini",
+        "details": {
+            "Country": "Italy"
         }
     },
     {
@@ -465,6 +669,12 @@
         }
     },
     {
+        "name": "Michelin",
+        "details": {
+            "Country": "France"
+        }
+    },
+    {
         "name": "Microsoft",
         "details": {
             "Country": "USA"
@@ -487,6 +697,12 @@
         "details": {
             "Country": "USA",
             "Owned By": "PepsiCo"
+        }
+    },
+    {
+        "name": "Nestle",
+        "details": {
+            "Country": "Switzerland"
         }
     },
     {
@@ -527,6 +743,24 @@
         }
     },
     {
+        "name": "Nordea",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
+        "name": "Novo Nordisk",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
+        "name": "Nutella",
+        "details": {
+            "Country": "Italy"
+        }
+    },
+    {
         "name": "Nvidia",
         "details": {
             "Country": "USA"
@@ -545,6 +779,18 @@
         }
     },
     {
+        "name": "Orkla",
+        "details": {
+            "Country": "Norway"
+        }
+    },
+    {
+        "name": "Oysho",
+        "details": {
+            "Country": "Spain"
+        }
+    },
+    {
         "name": "Packard Bell",
         "details": {
             "Country": "USA"
@@ -554,6 +800,12 @@
         "name": "Panasonic",
         "details": {
             "Country": "Japan"
+        }
+    },
+    {
+        "name": "Pandora",
+        "details": {
+            "Country": "Denmark"
         }
     },
     {
@@ -607,6 +859,12 @@
         }
     },
     {
+        "name": "Randstad",
+        "details": {
+            "Country": "Netherlands"
+        }
+    },
+    {
         "name": "Realtek",
         "details": {
             "Country": "Taiwan"
@@ -622,6 +880,18 @@
         "name": "Renesas",
         "details": {
             "Country": "Japan"
+        }
+    },
+    {
+        "name": "Rolex",
+        "details": {
+            "Country": "Switzerland"
+        }
+    },
+    {
+        "name": "Ryanair",
+        "details": {
+            "Country": "Ireland"
         }
     },
     {
@@ -649,6 +919,12 @@
         }
     },
     {
+        "name": "Schneider Electric",
+        "details": {
+            "Country": "France"
+        }
+    },
+    {
         "name": "Schweppes",
         "details": {
             "Country": "USA",
@@ -668,6 +944,12 @@
         }
     },
     {
+        "name": "Shell",
+        "details": {
+            "Country": "UK"
+        }
+    },
+    {
         "name": "Siemens",
         "details": {
             "Country": "Germany"
@@ -677,6 +959,12 @@
         "name": "Skoda",
         "details": {
             "Country": "Czech Republic"
+        }
+    },
+    {
+        "name": "Skype",
+        "details": {
+            "Country": "Estland"
         }
     },
     {
@@ -696,6 +984,12 @@
         "name": "Sony",
         "details": {
             "Country": "Japan"
+        }
+    },
+    {
+        "name": "Spotify",
+        "details": {
+            "Country": "Sweden"
         }
     },
     {
@@ -724,6 +1018,24 @@
         }
     },
     {
+        "name": "Telenor",
+        "details": {
+            "Country": "Norway"
+        }
+    },
+    {
+        "name": "Telia",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
+        "name": "Tesco",
+        "details": {
+            "Country": "UK"
+        }
+    },
+    {
         "name": "Tesla",
         "details": {
             "Country": "USA"
@@ -733,6 +1045,18 @@
         "name": "Texas Instruments",
         "details": {
             "Country": "USA"
+        }
+    },
+    {
+        "name": "Thule",
+        "details": {
+            "Country": "Sweden"
+        }
+    },
+    {
+        "name": "Tomtom",
+        "details": {
+            "Country": "Netherlands"
         }
     },
     {
@@ -767,6 +1091,18 @@
         }
     },
     {
+        "name": "Velux",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
+        "name": "Vestas",
+        "details": {
+            "Country": "Denmark"
+        }
+    },
+    {
         "name": "Vitamin Water",
         "details": {
             "Country": "USA",
@@ -795,6 +1131,12 @@
         "name": "Xiaomi",
         "details": {
             "Country": "China"
+        }
+    },
+    {
+        "name": "Zara",
+        "details": {
+            "Country": "Spain"
         }
     },
     {

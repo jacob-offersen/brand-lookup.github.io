@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
 	# Generate new brand code
 	newBrandsToAdd = [
-		# ["Audi", "Germany"],
+		# ["Lidl", "Germany"],
 	]
 	newCodeToAdd = ""
 	for brand in newBrandsToAdd:
